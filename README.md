@@ -28,10 +28,10 @@
   <p align="center">
     Revolutionary Programming Language For Law
     <br />
-    <a href="github.com/ozguralperen/l-lang/tree/main/AnotherInformations"><strong>Syntax Documentation »</strong></a>
+    <a href="https://devpost.com/software/llang"><strong>DEVPOST Page »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ozguralperen/l-lang/main/Build">Download</a>
+    <a href="https://github.com/ozguralperen/l-lang/">Main </a>
     ·
     <a href="https://github.com/ozguralperen/l-lang/issues">Report Bug</a>
     ·
@@ -113,9 +113,6 @@ and processed according to the approval of the other party or a positive respons
 
 llang is written with c # in .net core 3.1 version and Linux Mint x64 environment.
 It can run on many operating systems and devices thanks to .net Core.
-The executable format has been compiled to be ready-to-run. 
-It does not need any package requirements.
-
 
 ### For Build & Run in .NET Core
 
